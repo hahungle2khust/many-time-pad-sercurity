@@ -1,0 +1,4 @@
+﻿  Solve.cpp
+D:\20202\ATTT\Week2\One-time-Pad\Solve.cpp(150,27): warning C4018: '<': signed/unsigned mismatch
+D:\20202\ATTT\Week2\One-time-Pad\Solve.cpp(162,23): warning C4018: '<': signed/unsigned mismatch
+  One-time-Pad.vcxproj -> D:\20202\ATTT\Week2\One-time-Pad\Debug\One-time-Pad.exe
